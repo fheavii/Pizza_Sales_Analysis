@@ -1,8 +1,10 @@
-🍕 **Pizza Sales Performance Dashboard**
+## 🍕 **Pizza Sales Performance Dashboard**
 
 ## 📘 **Project Description**
 
-This project presents an interactive dashboard analyzing Plato’s Pizza sales performance for the year 2022. Using transactional data from a New Jersey-based restaurant, the dashboard provides insights into key business questions such as busiest days and hours, top-selling pizzas, order value trends, and seating capacity utilization. Data cleaning and preparation were performed in Excel, while the final visualization and analysis were developed using Power BI. The project demonstrates how raw sales data can be transformed into a professional, insight-driven dashboard that supports operational efficiency and business growth.
+<p align="justify">
+This project presents an interactive dashboard analyzing Plato’s Pizza sales performance for the year 2015. Using transactional data from inspired pizza place in New Jersey, the dashboard provides insights into key business questions such as busiest days and hours, top selling pizzas, order value trends, and seating capacity utilization. Data cleaning and preparation were performed in Excel, while the final visualization and analysis were developed using Power BI. The project demonstrates how raw sales data can be transformed into a professional, insight driven dashboard that supports operational efficiency and business growth.
+</p>
 
 ## 🧠 **Skill Showcase**
 
@@ -20,4 +22,6 @@ This dataset contains detailed order-level information including order date, tim
 
 ## 💡 **Closing**
 
-This project showcases the power of Excel and Power BI in turning transactional data into meaningful business insights. It highlights my ability to design interactive dashboards, compute key performance metrics, and communicate analytical findings effectively. Thank you for visiting this project — feel free to ⭐, share feedback, or collaborate!
+<p align="justify">
+This project showcases the power of Excel and Power BI in turning transactional data into meaningful business insights. It highlights my ability to design interactive dashboards, compute key performance metrics, and communicate analytical findings effectively. Thank you for visiting this project feel free to ⭐, share feedback, or collaborate!
+</p>
