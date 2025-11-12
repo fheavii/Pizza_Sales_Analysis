@@ -14,9 +14,10 @@ This project presents an interactive dashboard analyzing Pizza sales performance
 * Data storytelling and insight communication
 * Sales performance evaluation and capacity utilization analysis
 
-📊 **Data Sourcing**
-Dataset source: [Pizza Sales Dataset – Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx)
-This dataset contains detailed order-level information including order date, time, pizza type, size, quantity, unit price, and total revenue. All data is used solely for educational and analytical practice purposes.
+📊 **Data Sourcing**  
+Dataset source: [Pizza Sales Dataset – Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx)  
+This dataset contains detailed order-level information including order date, time, pizza type, size, quantity, unit price, and total revenue.  
+All data is used solely for educational and analytical practice purposes.
 
 💡 **Closing**
 <p align="justify">
