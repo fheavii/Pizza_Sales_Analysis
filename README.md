@@ -1,9 +1,9 @@
-## 🍕 **Pizza Sales Performance Dashboard**
+## 🍕 **Pizza Sales Analysis**
 
 ## 📘 **Project Description**
 
 <p align="justify">
-This project presents an interactive dashboard analyzing Plato’s Pizza sales performance for the year 2015. Using transactional data from inspired pizza place in New Jersey, the dashboard provides insights into key business questions such as busiest days and hours, top selling pizzas, order value trends, and seating capacity utilization. Data cleaning and preparation were performed in Excel, while the final visualization and analysis were developed using Power BI. The project demonstrates how raw sales data can be transformed into a professional, insight driven dashboard that supports operational efficiency and business growth.
+This project presents an interactive dashboard analyzing Pizza sales performance for the year 2015. Using transactional data from inspired pizza place in New Jersey, the dashboard provides insights into key business questions such as busiest days and hours, top selling pizzas, order value trends, and seating capacity utilization. Data cleaning and preparation were performed in Excel, while the final visualization and analysis were developed using Power BI. The project demonstrates how raw sales data can be transformed into a professional, insight driven dashboard that supports operational efficiency and business growth.
 </p>
 
 ## 🧠 **Skill Showcase**
