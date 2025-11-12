@@ -8,10 +8,10 @@ This project presents an interactive dashboard analyzing Pizza sales performance
 
 ## 🧠 **Skill Showcase**
 
-* Data cleaning and preprocessing in Excel (Power Query)
+* Data cleaning and preprocessing in Excel 
 * KPI computation and data modeling in Power BI
-* Dashboard design with interactive visuals (bar, line, matrix, donut)
-* Time-based and categorical analysis (hour, weekday, pizza type)
+* Dashboard design with interactive visuals 
+* Time-based and categorical analysis 
 * Data storytelling and insight communication
 * Sales performance evaluation and capacity utilization analysis
 
