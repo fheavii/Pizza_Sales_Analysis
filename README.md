@@ -1,27 +1,43 @@
-## 🍕 **Pizza Sales Analysis**
-
-## 📘 **Project Description**
-
+# 🍕 Pizza Sales Analysis Dashboard — Power BI & Excel
+# 📘 Project Description
 <p align="justify">
-This project presents an interactive dashboard analyzing Pizza sales performance for the year 2015. Using transactional data from inspired pizza place in New Jersey, the dashboard provides insights into key business questions such as busiest days and hours, top selling pizzas, order value trends, and seating capacity utilization. Data cleaning and preparation were performed in Excel, while the final visualization and analysis were developed using Power BI. The project demonstrates how raw sales data can be transformed into a professional, insight driven dashboard that supports operational efficiency and business growth.
+This project presents an <b>interactive sales dashboard</b> analyzing the performance of a pizza restaurant in New Jersey for the year <b>2015</b>. Using detailed transactional data, the dashboard uncovers insights such as <b>busiest days & hours</b>, <b>top-selling pizzas</b>, <b>order value trends</b>, and <b>capacity utilization</b>. Data cleaning and preparation were performed in <b>Excel</b>, while the final dashboard and analytics were built using <b>Power BI</b>. This project demonstrates how raw sales data can be transformed into a <b>professional, insight driven dashboard</b> that supports operational efficiency and business growth.
 </p>
 
-## 🧠 **Skill Showcase**
+# 🧠 Skill Showcase  
 
-* Data cleaning and preprocessing in Excel 
-* KPI computation and data modeling in Power BI
-* Dashboard design with interactive visuals 
-* Time-based and categorical analysis 
-* Data storytelling and insight communication
-* Sales performance evaluation and capacity utilization analysis
+- 🧹 Data cleaning & preprocessing in <b>Excel</b>  
+- 🔄 Data modeling & KPI computation in <b>Power BI</b>  
+- 📊 Dashboard layout & interactive visual design  
+- ⏱️ Time based sales analysis   
+- 🍕 Category & product performance analysis  
+- 📈 Data storytelling & insight communication  
 
-## 📊 **Data Sourcing**
+# 📊 Data Sourcing  
+Dataset used:  
+👉 <a href="https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx">Pizza Sales Dataset — Kaggle</a>  
+<br>
+The dataset includes order-level details such as: 
 
-Dataset source: [Pizza Sales Dataset – Kaggle](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx)
-This dataset contains detailed order-level information including order date, time, pizza type, size, quantity, unit price, and total revenue. All data is used solely for educational and analytical practice purposes.
+- order date & time  
+- pizza type & size  
+- quantity  
+- unit price & total revenue  
 
-## 💡 **Closing**
+Used strictly for <b>educational and analytical purposes</b>.
 
+# 🚀 What This Project Demonstrates  
+
+- Ability to build <b>professional retail sales dashboards</b>  
+- Experience with <b>Power BI modeling, relationships, and KPI cards</b>  
+- Skill in cleaning transactional datasets for analysis  
+- Capability to extract <b>actionable insights</b> from product level and time based data  
+
+## 💡 Closing  
 <p align="justify">
-This project showcases the power of Excel and Power BI in turning transactional data into meaningful business insights. It highlights my ability to design interactive dashboards, compute key performance metrics, and communicate analytical findings effectively. Thank you for visiting this project feel free to ⭐, share feedback, or collaborate!
+This project highlights how <b>Excel</b> and <b>Power BI</b> can work together to turn raw transactional data into <b>clear, interactive business insights</b>.  
+It demonstrates my ability to design dashboards, compute essential KPIs, and communicate findings effectively.
 </p>
+<br>
+⭐ <b>Thank you for exploring this project!</b>  
+Feel free to ⭐ the repo, share feedback, or reach out for collaboration!  
