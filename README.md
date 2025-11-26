@@ -17,7 +17,7 @@ This project presents an <b>interactive sales dashboard</b> analyzing the perfor
 Dataset used:  
 👉 <a href="https://www.kaggle.com/datasets/shilongzhuang/pizza-sales?select=Data+Model+-+Pizza+Sales.xlsx">Pizza Sales Dataset — Kaggle</a>  
 <br>
-The dataset includes order-level details such as: 
+The dataset includes order level details such as: 
 
 - order date & time  
 - pizza type & size  
